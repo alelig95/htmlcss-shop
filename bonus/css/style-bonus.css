@@ -19,21 +19,21 @@
   border: 3px solid #73AD21;
   text-align: center;
   background-color: #6fce7a;
-  }
+}
 
 
 .row{
   height: 420px;
-  }
+}
 
 .box-image{
   width: 33%;
-
   display: inline-block;
   text-align: center;
   position: relative;
-
 }
+
+
 
 .discount{
   background-color: green;
